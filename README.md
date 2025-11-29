@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">👀 coeshweyi01@gmail.com 👀</p>
+
 
 ###
 
