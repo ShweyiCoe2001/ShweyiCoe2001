@@ -16,16 +16,25 @@
 
 ###
 
+<p align="center">👀 coeshweyi01@gmail.com 👀</p>
+
+###
+
 <p align="center">✨ Creating bugs since my journey through Computer & Electronic Engineering began<br>📚 I'm currently learning deep learning, computer vision, and better debugging skills 😅<br>🎯 Goals: Build meaningful tech—AI apps, smart healthcare tools & accessible systems<br>🎲 Fun fact: I made an app that can recognize banknotes, but I still can’t recognize my own sleep schedule</p>
 
 ###
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShweyiCoe2001/ShweyiCoe2001/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShweyiCoe2001/ShweyiCoe2001/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShweyiCoe2001/ShweyiCoe2001/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <a href="https://www.linkedin.com/in/shweyi-coe-2a982436b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/shweyi.coe.1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/coe.s_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
@@ -96,20 +105,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ShweyiCoe2001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShweyiCoe2001&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/shweyi-coe-2a982436b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/shweyi.coe.1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/coe.s_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
