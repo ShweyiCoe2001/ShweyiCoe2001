@@ -20,7 +20,6 @@
 
 ###
 
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShweyiCoe2001/ShweyiCoe2001/output/pacman-contribution-graph-dark.svg">
