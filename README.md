@@ -1,48 +1,45 @@
-<!-- ===== CLEAN TOP HEADER ===== -->
+<!-- ===== COSMIC TOP BANNER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=110&section=header&text=Shweyi%20Coe&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=160&section=header&text=From%20Curiosity%20to%20Code&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Shweyi%20Coe%20%7C%20Full-Stack%20%26%20ML%20Engineer&descAlignY=62" />
 </div>
 
 ---
 
-<!-- ===== SUBTLE TYPING INTRO ===== -->
+<!-- ===== STORY TYPING ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=1000&color=9BE7FF&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Machine+Learning+Engineer;Computer+%26+Electronic+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=2400&pause=1000&color=FDBB2D&center=true&vCenter=true&width=720&lines=It+started+with+Hello+World...;Curiosity+turned+into+Code;Code+turned+into+Impact+🚀" />
 </p>
 
 ---
 
-<h2 align="center">
-  Hello, I’m Coe 👋
-</h2>
+<h1 align="center">👋 Hi, I’m Coe</h1>
 
 <p align="center">
-  <b>Engineer • Developer • Problem Solver</b><br>
-  Passionate about building <b>clean, scalable & intelligent systems</b>
+  <b>Engineer by training • Builder by heart</b>
 </p>
 
 ---
 
-<!-- ===== ABOUT ===== -->
+<!-- ===== STORY SECTION ===== -->
 <p align="center">
-  📍 Background in <b>Computer & Electronic Engineering</b><br>
-  🤖 Focus areas: <b>AI, Deep Learning & Computer Vision</b><br>
-  🛠️ I enjoy transforming complex ideas into elegant solutions<br>
-  😄 Fun fact: I trust logs more than people
+  🧩 Background in <b>Computer & Electronic Engineering</b><br>
+  🤖 Passionate about <b>AI, Machine Learning & Computer Vision</b><br>
+  🛠️ I love building things that actually help people<br>
+  🎯 Mission: Turn complex technology into human-friendly solutions
 </p>
 
 ---
 
-<!-- ===== HERO IMAGE ===== -->
+<!-- ===== CODING JOURNEY GIF ===== -->
 <div align="center">
-  <img height="190" src="https://media3.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img height="210" src="https://media3.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
 </div>
 
 ---
 
 <!-- ===== CONTACT ===== -->
 <p align="center">
-  📫 <b>coeshweyi01@gmail.com</b>
+  📬 <b>coeshweyi01@gmail.com</b>
 </p>
 
 ---
@@ -50,31 +47,31 @@
 <!-- ===== SOCIAL ===== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/shweyi-coe-2a982436b/">
-    <img src="https://img.shields.io/badge/LinkedIn-243B55?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1a2a6c?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/coe.s_/">
-    <img src="https://img.shields.io/badge/Instagram-141E30?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-b21f1f?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 🧠 Skills & Tools
+## 🛠️ Tools I Use on This Journey
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,nest,python,pytorch,tensorflow,flutter,java,docker,postgres,mysql,opencv,figma,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,nest,python,pytorch,tensorflow,flutter,docker,postgres,opencv,figma,github,vscode&theme=dark&perline=8" />
 </div>
 
 ---
 
-<!-- ===== PHILOSOPHY ===== -->
+<!-- ===== PERSONAL TOUCH ===== -->
 <p align="center">
-  <i>“Simplicity is the soul of efficiency.”</i>
+  <i>“Every great developer was once a beginner who didn’t quit.”</i>
 </p>
 
 ---
 
-<!-- ===== CLEAN FOOTER ===== -->
+<!-- ===== JOURNEY END FOOTER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=90&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fdbb2d,50:b21f1f,100:1a2a6c&height=120&section=footer&animation=twinkling" />
 </div>
