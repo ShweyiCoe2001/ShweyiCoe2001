@@ -100,9 +100,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Coding+%7C+Debugging+%7C+Deploying;Full-Stack+Developer;Building+Awesome+Apps!" alt="Developer Typing Animation" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Welcome+to+my+GitHub!" />
+</p>
+
 
 
 ###
