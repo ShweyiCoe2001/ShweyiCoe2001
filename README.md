@@ -1,69 +1,76 @@
-<!-- ===== TOP WAVING BANNER ===== -->
+<!-- ===== NEON TOP BANNER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Shweyi%20Coe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Welcome%20to%20My%20Code%20Space&fontSize=42&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%7C%20ML%20Engineer&descAlignY=60" />
 </div>
 
 ---
 
-<!-- ===== HERO GIF ===== -->
+<!-- ===== TERMINAL STYLE TYPING ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=%24+whoami;Coe+-+Developer;Building+AI-powered+Applications;Learning+Relentlessly+🚀" />
+</p>
+
+---
+
+<!-- ===== CODING GIF ===== -->
 <div align="center">
-  <img height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlxaXZ6MGZ3MGE1eHZobHVtaGZhY3h1a2RqZXc5eHBpYzQ2YWZkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+  <img height="210" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
 
 ---
 
-<!-- ===== INTRO ===== -->
 <h1 align="center">
-  Hi there 👋 I'm <span style="color:#36BCF7">Coe</span>
+  👨‍💻 Hi, I'm <span style="color:#00E5FF">Coe</span>
 </h1>
 
 <p align="center">
-  📧 <b>coeshweyi01@gmail.com</b>
+  <b>Computer & Electronic Engineering</b> student with a passion for<br>
+  <b>AI, Machine Learning, Web & Mobile Development</b>
 </p>
 
 ---
 
-<!-- ===== ABOUT ME ===== -->
+<!-- ===== ABOUT ===== -->
 <p align="center">
-  ✨ Creating bugs since my journey through <b>Computer & Electronic Engineering</b> began<br>
-  📚 Currently exploring <b>Deep Learning, Computer Vision & smarter debugging</b><br>
-  🎯 Goal: Build meaningful tech — <b>AI apps, smart healthcare & accessible systems</b><br>
-  🎲 Fun fact: I built a banknote recognition app, but still can’t recognize my own sleep schedule 😅
+  🧠 Exploring <b>Deep Learning & Computer Vision</b><br>
+  ⚙️ Turning ideas into scalable systems<br>
+  🎯 Dream: Build tech that improves human lives<br>
+  😄 Debugging by day, overthinking by night
 </p>
 
 ---
 
-<!-- ===== TYPING ANIMATION ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Machine+Learning+Engineer;AI+%7C+Web+%7C+Mobile+Builder;Turning+Coffee+Into+Code+☕" />
-</p>
-
----
-
-<!-- ===== SOCIAL LINKS ===== -->
+<!-- ===== SOCIAL ===== -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/shweyi-coe-2a982436b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" />
+  <a href="https://www.linkedin.com/in/shweyi-coe-2a982436b/">
+    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://www.facebook.com/shweyi.coe.1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" />
+  <a href="mailto:coeshweyi01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
   </a>
-  <a href="https://www.instagram.com/coe.s_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" />
+  <a href="https://www.instagram.com/coe.s_/">
+    <img src="https://img.shields.io/badge/Instagram-302b63?style=for-the-badge&logo=instagram&logoColor=00E5FF" />
   </a>
 </div>
 
 ---
 
-## 🧬 Tech DNA
+## ⚡ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,nest,python,pytorch,tensorflow,flutter,dart,java,cs,docker,postgres,mysql,opencv,figma,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,nest,python,pytorch,tensorflow,flutter,dart,java,cs,docker,postgres,mysql,opencv,figma,github,vscode&theme=dark&perline=8" />
 </div>
 
 ---
 
-<!-- ===== FOOTER BANNER ===== -->
+<!-- ===== DEV QUOTE ===== -->
+<p align="center">
+  <i>"Any sufficiently advanced bug is indistinguishable from a feature."</i> 😄
+</p>
+
+---
+
+<!-- ===== FOOTER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" />
 </div>
