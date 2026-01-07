@@ -16,7 +16,7 @@
 
 ###
 
-
+<p align="center">👀 coeshweyi01@gmail.com 👀</p>
 
 ###
 
@@ -100,11 +100,13 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/ShweyiCoe2001/ShweyiCoe2001/output/snake.svg" alt="Snake animation" />
+
+###
+
 <br clear="both">
 
 <div align="center">
- 
-
 </div>
 
 ###
