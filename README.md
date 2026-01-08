@@ -1,76 +1,78 @@
-<!-- ===== NEON TOP BANNER ===== -->
+<!-- ===== RESEARCH LAB HEADER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Welcome%20to%20My%20Code%20Space&fontSize=42&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%7C%20ML%20Engineer&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:1F2933&height=120&section=header&text=Shweyi%20Coe&fontSize=40&fontColor=E5E7EB&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Research%20%7C%20Full-Stack%20Developer&descAlignY=78" />
 </div>
 
 ---
 
-<!-- ===== TERMINAL STYLE TYPING ===== -->
+<!-- ===== TERMINAL-STYLE INTRO ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=%24+whoami;Coe+-+Developer;Building+AI-powered+Applications;Learning+Relentlessly+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=22&duration=3000&pause=1200&color=A5B4FC&center=true&vCenter=true&width=760&lines=Researching+Patterns;Training+Models;Deploying+Intelligence;Optimizing+for+Impact" />
 </p>
 
 ---
 
-<!-- ===== CODING GIF ===== -->
+<h2 align="center">👋 Hello, I’m Coe</h2>
+
+<p align="center">
+  <b>Computer & Electronic Engineering</b><br>
+  Focused on <b>Artificial Intelligence, Machine Learning & Intelligent Systems</b>
+</p>
+
+---
+
+<!-- ===== RESEARCH FOCUS ===== -->
+<p align="center">
+  🔬 Interests: <b>Deep Learning, Computer Vision, Applied AI</b><br>
+  🧪 Experience: <b>Model training, experimentation & evaluation</b><br>
+  ⚙️ Engineering: <b>End-to-end systems from data → model → product</b><br>
+  🌱 Philosophy: Research with purpose, engineering with empathy
+</p>
+
+---
+
+<!-- ===== AI VISUAL ===== -->
 <div align="center">
-  <img height="210" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  <img height="200" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </div>
 
 ---
 
-<h1 align="center">
-  👨‍💻 Hi, I'm <span style="color:#00E5FF">Coe</span>
-</h1>
-
+<!-- ===== CONTACT ===== -->
 <p align="center">
-  <b>Computer & Electronic Engineering</b> student with a passion for<br>
-  <b>AI, Machine Learning, Web & Mobile Development</b>
+  📧 <b>coeshweyi01@gmail.com</b>
 </p>
 
 ---
 
-<!-- ===== ABOUT ===== -->
-<p align="center">
-  🧠 Exploring <b>Deep Learning & Computer Vision</b><br>
-  ⚙️ Turning ideas into scalable systems<br>
-  🎯 Dream: Build tech that improves human lives<br>
-  😄 Debugging by day, overthinking by night
-</p>
-
----
-
-<!-- ===== SOCIAL ===== -->
+<!-- ===== PROFESSIONAL LINKS ===== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/shweyi-coe-2a982436b/">
-    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-1F2933?style=flat&logo=linkedin&logoColor=A5B4FC" />
   </a>
   <a href="mailto:coeshweyi01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
-  </a>
-  <a href="https://www.instagram.com/coe.s_/">
-    <img src="https://img.shields.io/badge/Instagram-302b63?style=for-the-badge&logo=instagram&logoColor=00E5FF" />
+    <img src="https://img.shields.io/badge/Email-0B0F19?style=flat&logo=gmail&logoColor=A5B4FC" />
   </a>
 </div>
 
 ---
 
-## ⚡ Tech Arsenal
+## 🧬 Research & Engineering Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,nest,python,pytorch,tensorflow,flutter,dart,java,cs,docker,postgres,mysql,opencv,figma,github,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,js,ts,react,next,node,docker,postgres,github,vscode&theme=dark&perline=7" />
 </div>
 
 ---
 
-<!-- ===== DEV QUOTE ===== -->
+<!-- ===== RESEARCH QUOTE ===== -->
 <p align="center">
-  <i>"Any sufficiently advanced bug is indistinguishable from a feature."</i> 😄
+  <i>“The goal is not just to build models, but to understand them.”</i>
 </p>
 
 ---
 
-<!-- ===== FOOTER ===== -->
+<!-- ===== LAB FOOTER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2933,100:0B0F19&height=90&section=footer&animation=fadeIn" />
 </div>
